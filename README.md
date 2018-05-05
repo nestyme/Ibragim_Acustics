@@ -4,4 +4,4 @@
 
 Далее используется **сверточная нейронная сеть** для классификации изображений.
 
-Датасет с спектрограммами: https://drive.google.com/drive/u/0/folders/1unEk9TGgWokrGxFp0WMN9jOEN2isdUyy
+Датасет со спектрограммами: https://drive.google.com/drive/u/0/folders/1unEk9TGgWokrGxFp0WMN9jOEN2isdUyy
